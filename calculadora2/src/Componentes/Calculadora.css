@@ -1,0 +1,40 @@
+button{
+    height: 3em;
+    width: 3em;
+    border-radius: 100%;
+    border: none;
+    font-size: 1.5em;
+    margin: 0.5em;
+}
+button:hover{
+    cursor: pointer;
+}
+.tela{
+    background-color: black;
+    border-radius: 1em;
+}
+.laranja{
+    background-color: #ff9500;
+    color: antiquewhite;
+}
+.cinza{
+    background-color: grey;
+    color: black;
+}
+.vermelho{
+    background-color: red;
+}
+.preto{
+    background-color: black;
+}
+.resultado{
+    color: blanchedalmond;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 4em;
+}
+.igual{
+    width: 6em;
+    border-radius: 44%;
+}
